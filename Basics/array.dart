@@ -6,7 +6,6 @@ main() {
 
   var names = ["Neymar","Messi","Ronaldo","Mbappe","Suarez"];
   //print(names.length); // Length of the Array
-
   //print(names[2]); // How to access one element 
 
   print(names); // Whole list is printed
@@ -16,5 +15,4 @@ main() {
 
   print(names.removeAt(2));
   print(names);
-
 }
