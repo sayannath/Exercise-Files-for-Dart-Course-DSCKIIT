@@ -1,5 +1,5 @@
 main() {
-  int x=4;
+  int x = 4;
   int y = 0;
   int result;
 
@@ -8,8 +8,7 @@ main() {
     print(result);
   } on IntegerDivisionByZeroException {
     print("The value of y should not be equal to 0.");
-  }
-   finally {
+  } finally {
     print("Handle");
   }
 
