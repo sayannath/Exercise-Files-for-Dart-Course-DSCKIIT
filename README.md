@@ -9,11 +9,12 @@
 <br>
 
 ## Tutorial Link
-> Youtube link - [Link](https://www.youtube.com/playlist?list=PLT-AS3Wcy-plOzvgU8R3Jo8LzH1tiiZmE)
+* Youtube link - [Link](https://www.youtube.com/playlist?list=PLT-AS3Wcy-plOzvgU8R3Jo8LzH1tiiZmE)
 
 
 ## Developed & Maintained by
 <br>
+
 [👨 Sayan Nath](https://sayan-nath.web.app/)<br>
 [📷 Insta](https://www.instagram.com/sayannath235/)<br>
 [🐤 Twitter](https://twitter.com/SayanNa20204009)<br>
