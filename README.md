@@ -13,7 +13,6 @@
 
 
 ## Developed & Maintained by
-<br>
 
 [👨 Sayan Nath](https://sayan-nath.web.app/)<br>
 [📷 Insta](https://www.instagram.com/sayannath235/)<br>
