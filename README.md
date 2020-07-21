@@ -11,6 +11,14 @@
 ## Tutorial Link
 * Youtube link - [Link](https://www.youtube.com/playlist?list=PLT-AS3Wcy-plOzvgU8R3Jo8LzH1tiiZmE)
 
+## Testing out the code
+1. Clone this repo in your machine.
+2. Open the project folder in VS Code
+3. For testing out the programs use this command:
+```
+dart filename.dart
+```
+
 
 ## Developed & Maintained by
 
